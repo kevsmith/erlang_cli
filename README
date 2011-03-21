@@ -1,0 +1,4 @@
+A little demo code to illustrate how to startup and initialize distributed
+Erlang for escript.
+
+Works great for command-line tools.
